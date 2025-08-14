@@ -20,3 +20,4 @@ The `Student` model contains the following properties:
 
 - .NET (C#)
 - ASP.NET Core Web API
+https://github.com/mgrankit/StudentAPIDemo/blob/master/GET%20Request.png?raw=true
